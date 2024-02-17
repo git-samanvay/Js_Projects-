@@ -1,4 +1,4 @@
-#JavaScript Project#
+<h1>JavaScript Project</h1>
 1-ColorChange
 description:
 This project is a simple, interactive web application designed to change the background color of the page
